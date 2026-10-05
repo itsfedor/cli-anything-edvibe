@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="cli-anything-edvibe — a reverse-engineered Edvibe CLI for lessons and homework — by Fedor Molodtsov" src="assets/banner-light.png" width="100%">
+</picture>
+
 # ⌨️ cli-anything-edvibe: drive Edvibe from your terminal
 
 **A reverse-engineered CLI for [edvibe.com](https://edvibe.com) — the ESL teaching platform with no public API.**
@@ -28,6 +33,12 @@ Requires **Python 3.9+**. No Node, no server, no extras.
 git clone https://github.com/itsfedor/cli-anything-edvibe
 cd cli-anything-edvibe
 pip install -e .
+```
+
+Or as a one-liner with [pipx](https://pipx.pypa.io):
+
+```bash
+pipx install git+https://github.com/itsfedor/cli-anything-edvibe
 ```
 
 Check the setup:
