@@ -3,6 +3,8 @@
   <img alt="cli-anything-edvibe — a reverse-engineered Edvibe CLI for lessons and homework — by Fedor Molodtsov" src="assets/banner-light.png" width="100%">
 </picture>
 
+<p align="center"><sub><b>Fedor Molodtsov</b> — AI automation engineer · <a href="https://github.com/itsfedor">github.com/itsfedor</a></sub></p>
+
 # ⌨️ cli-anything-edvibe: drive Edvibe from your terminal
 
 **A reverse-engineered CLI for [edvibe.com](https://edvibe.com) — the ESL teaching platform with no public API.**
