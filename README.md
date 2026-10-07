@@ -14,10 +14,6 @@
 [![Tests](https://img.shields.io/badge/tests-20%20(15%20offline%20%2B%205%20live)-2ea043.svg)](#tests)
 [![Bundles an agent skill](https://img.shields.io/badge/bundles-agent%20skill-0075de.svg)](skills/cli-anything-edvibe/SKILL.md)
 
-<p align="center">
-  <img src="assets/preview.jpg" alt="cli-anything-edvibe — reverse-engineered CLI for the Edvibe teaching platform" width="80%" />
-</p>
-
 Edvibe (formerly ProgressMe) keeps everything — materials, lessons, students,
 homework — behind a **private WebSocket RPC gateway**; there is no official API.
 This project reverse-engineered that protocol and wraps it in a small,
